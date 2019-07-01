@@ -1,0 +1,10 @@
+body {
+	font-family: Tahoma;
+}
+
+h1 {
+	margin: 0;
+	padding:10px;
+	background: #cf0;
+	display: inline-block;
+}
